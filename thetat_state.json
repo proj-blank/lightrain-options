@@ -1,0 +1,19 @@
+{
+  "capital": 503879.7576171875,
+  "position": null,
+  "trades": [
+    {
+      "date": "2026-02-12",
+      "entry_time": "10:00:04",
+      "exit_time": "15:27:01",
+      "entry_spot": 25865.05078125,
+      "exit_spot": 25798.05078125,
+      "short_strike": 25600,
+      "long_strike": 25550,
+      "credit": 7.759515234375,
+      "pnl": 3879.7576171875003,
+      "result": "\u2705 WIN"
+    }
+  ],
+  "last_run_date": "2026-02-12"
+}
